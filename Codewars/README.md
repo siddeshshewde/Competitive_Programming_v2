@@ -77,11 +77,12 @@ Below is a cumilative list of the number of kata, kumite and translations that I
 #### Kata
 <i><u>For quick access</u></i> use the index table or do a search by kata URL, name, ID or slug in the repository.
 
-|    Programming Language  | 8 Kyu | 7Kyu | 6Kyu | 5Kyu | 4Kyu | 3Kyu | 2Kyu | 1Kyu | Beta | Kata Count | Honor |
+|    Programming Language  | 8 Kyu | 7 Kyu | 6 Kyu | 5 Kyu | 4 Kyu | 3 Kyu | 2 Kyu | 1 Kyu | Beta | Kata Count | Honor |
 | --- | --- | --- | --- | --- | --- | ---| --- | --- | --- | --- | --- |
-| [JAVA](https://github.com/varunu28/A-Kata-A-Day/tree/master/JAVA) | 4 | 8 | 7 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 88 |
-| [Python](https://github.com/varunu28/A-Kata-A-Day/tree/master/Python) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
-| [JavaScript](https://github.com/varunu28/A-Kata-A-Day/tree/master/Javascript) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| [JAVA]                   |   0   |   0   |   0   |   5   |   1   |   0   |   0   |   0   |  0   |     6      |   72   |
+| [Python]                 |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |  0   |     0      |   0    | 
+| [JavaScript]             |   0   |   0   |   0   |   0   |   1   |   0   |   0   |   0   |  0   |     1      |   32   |
+| [PHP]                    |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |  0   |     0      |   0    |
 
 #### Kumite
 
