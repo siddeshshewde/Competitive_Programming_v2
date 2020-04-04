@@ -1,0 +1,1 @@
+https://www.codewars.com/kata/get-planet-name-by-id/train/python
