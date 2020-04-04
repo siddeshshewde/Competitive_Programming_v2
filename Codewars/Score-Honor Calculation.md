@@ -2,9 +2,9 @@
 
 | Label                         | Honor | Count | Total Honor |
 | ---                           | ---   | ---   | ---         |
-| Completed Kata (White)        | 2     | 12    | 24          | 
-| Completed Kata (Yellow)       | 8     | 8     | 64          | 
-| Completed Kata (Blue)         | 32    | 0     | 0           | 
+| Completed Kata (White)        | 2     | 0     | 0           | 
+| Completed Kata (Yellow)       | 8     | 5     | 40          | 
+| Completed Kata (Blue)         | 32    | 2     | 64          | 
 | Completed Kata (Purple)       | 128   | 0     | 0           | 
 | Completed Kata (Beta)         | 2     | 0     | 0           | 
 | Reached 7 kyu                 | 20    | 1     | 20          | 
