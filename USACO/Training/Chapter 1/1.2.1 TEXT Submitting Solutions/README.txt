@@ -1,5 +1,3 @@
-<h1 align="center">The First Challenge</h1>
-
 Title:
 	The First Challenge
 
