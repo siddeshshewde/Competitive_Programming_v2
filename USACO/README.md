@@ -16,9 +16,9 @@ Here, you can find solutions to USACO **contests** and **training**.
 
 The files in the below table are the original file names, but some files in this repository have prefixes. Additional remarks/suggestions can be found in subfolders; the following tables are just summarizations.
 
-##Training Solutions
+Training Solutions
 -----
-| Chapter   | Section     | File            | Problem
-| --------- | ----------- |:---------------:| ---
-| Chapter 1 | Section 1.1 | `test.c`        | Submitting Solutions
-|           |             | `ride.c`        | 108: Your Ride Is Here
+| Chapter   | File            | Problem
+| --------- |:---------------:| ---
+| Chapter 1 | `test.java`     | Submitting Solutions
+|           | `ride.java`     | 108: Your Ride Is Here
