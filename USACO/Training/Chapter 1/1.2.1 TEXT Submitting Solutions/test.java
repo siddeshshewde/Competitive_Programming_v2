@@ -1,12 +1,9 @@
 /*
 Title:
 	The First Challenge
-
 Link:
 	https://train.usaco.org/usacotext2?a=Di95zySl5wx&S=grade
-
 */
-
 
 
 /*
