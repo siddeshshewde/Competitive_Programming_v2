@@ -1,5 +1,3 @@
-<h1 align="center">Your Ride Is Here</h1>
-
 Title:
 	Your Ride Is Here
 
