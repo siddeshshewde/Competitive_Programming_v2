@@ -105,4 +105,4 @@ If you have any questions or comments <a href="https://gitter.im/siddesh_shewde/
 NOTE: Please <b>DO NOT</b> send solutions for missing kata problems!
 
 ## License
-GNU General Public License v3.0
+GNU General Public License v3
