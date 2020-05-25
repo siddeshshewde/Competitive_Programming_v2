@@ -65,4 +65,5 @@ public class Day01
 /*
 Lines of Code : 17
 Time : 5ms
+Solution : 280
 */
