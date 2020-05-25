@@ -52,6 +52,8 @@ public class Day01
                 floor += 1;
             if (input.charAt(i) == ')')
                 floor -= 1;
+            if (floor < 0 && position == 0)
+                position = i + 1;
         }
         System.out.println(floor);
         //long endTime = System.currentTimeMillis();
@@ -63,7 +65,8 @@ public class Day01
 
 
 /*
-Lines of Code : 17
-Time : 5ms
-Solution : 280
+Lines of Code  : 19
+Time           : 5ms
+Solution Part1 : 280
+Solution Part2 : 1797
 */
