@@ -13,7 +13,7 @@ def productExceptSelf(arr):
     return solution
     
     
-print (productExceptSelf([1, 2, 3, 4, 5]))
-print (productExceptSelf([3, 2, 1]))
-print (productExceptSelf([1]))
-print (productExceptSelf([10, 15, 3, 7]))
+print (productExceptSelf([1, 2, 3, 4, 5])) == [120, 60, 40, 30, 24]
+print (productExceptSelf([3, 2, 1]))       == [2, 3, 6]
+print (productExceptSelf([1]))             == [1]
+print (productExceptSelf([10, 15, 3, 7]))  == [315, 210, 1050, 450]
