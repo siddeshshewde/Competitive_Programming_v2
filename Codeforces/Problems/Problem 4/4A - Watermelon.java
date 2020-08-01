@@ -2,7 +2,7 @@
 Problem      : Watermelon
 Round        : 4A
 Link         : https://codeforces.com/problemset/problem/4/A
-Difficulty   : 1300
+Difficulty   : 800
 Category     : brute force, math
 Time Limit   : 1s
 Memory Limit : 64mb
