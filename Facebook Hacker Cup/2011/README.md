@@ -8,3 +8,4 @@ Java solutions of Facebook Hacker Cup 2011.
 | # | Title | Solution | Time | Space | Points | Category | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |A| [Double Squares](https://www.facebook.com/codingcompetitions/hacker-cup/2011/qualification-round/problems/A)| [Java](./1.%20Qualification%20Round/A.%20Double%20Squares.java)| _O(N^2)_ | _O(1)_ | 100 | Math |  |
+|C| [Studious Student](https://www.facebook.com/codingcompetitions/hacker-cup/2011/qualification-round/problems/C)| [Java](./1.%20Qualification%20Round/C.%20Studious%20Student/C.%20Studious%20Student.java)| _O(N^2)_ | _O(1)_ | 100 | Word Sort |  |
