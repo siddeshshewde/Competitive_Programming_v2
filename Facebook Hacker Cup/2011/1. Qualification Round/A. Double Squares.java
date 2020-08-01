@@ -5,8 +5,8 @@
 # Problem      : A
 # Points       : 100pts
 # Description  : https://www.facebook.com/codingcompetitions/hacker-cup/2011/qualification-round/problems/A
-# Time		   : 
-# Space		   : 
+# Time	       : 
+# Space	       : 
 
 ## Problem Statement
 A double-square number is an integer X which can be expressed as the sum of two perfect squares. 
