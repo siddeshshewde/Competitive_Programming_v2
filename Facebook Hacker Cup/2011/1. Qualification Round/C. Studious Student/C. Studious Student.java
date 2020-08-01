@@ -5,8 +5,8 @@
 # Problem      : C
 # Points       : 100pts
 # Description  : https://www.facebook.com/codingcompetitions/hacker-cup/2011/qualification-round/problems/C
-# Time		   : 
-# Space		   : 
+# Time         : 
+# Space        : 
 
 ## Problem Statement
 You've been given a list of words to study and memorize. Being a diligent student of language and the arts, 
