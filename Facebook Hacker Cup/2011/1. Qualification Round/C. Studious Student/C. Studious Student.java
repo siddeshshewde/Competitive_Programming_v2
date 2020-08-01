@@ -49,9 +49,6 @@ Case #5: dcyihopjijliuiuy
 
 */
 
-
-*/
-
 package studious_student;
 
 import java.io.File;
