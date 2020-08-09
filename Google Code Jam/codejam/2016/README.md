@@ -2,6 +2,8 @@
 
 Java solutions for Google Code Jam 2016 held in Dublin, Ireland.
 
+Codejam 2016 Livestream - https://www.youtube.com/watch?v=4diQ6JXY4cI&t=0s&list=PLllx_3tLoo4dKCswFCctSgMj9y3GQyAlq&index=55
+
 * [Qualification Round](https://github.com/siddeshshewde/Competitive_Programming_v2/tree/master/Google%20Code%20Jam/codejam/2016/1.%20Qualification%20Round)
 
 ## Qualification Round
