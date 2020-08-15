@@ -1,42 +1,53 @@
 /*
-# Problem      : Allocation
-# Year         : 2020
+# Problem      : Square Counting
+# Year         : 2017
 # Round        : A
-# Points       : 5pts, 7pts
-# Description  : https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56
+# Points       : 8pts, 17pts
+# Description  : https://codingcompetitions.withgoogle.com/kickstart/round/0000000000201c97/0000000000201d25
+
 ## Problem Statement
-There are N houses for sale. The i-th house costs Ai dollars to buy. You have a budget of B dollars to spend.
-What is the maximum number of houses you can buy?
+Mr. Panda has recently fallen in love with a new game called Square Off, in which players compete to find as many different squares as possible on an evenly 
+spaced rectangular grid of dots. To find a square, a player must identify four dots that form the vertices of a square. Each side of the square must have the same length, 
+of course, but it does not matter what that length is, and the square does not necessarily need to be aligned with the axes of the grid. The player earns one point for 
+every different square found in this way. Two squares are different if and only if their sets of four dots are different.
+
+Mr. Panda has just been given a grid with R rows and C columns of dots. How many different squares can he find in this grid? Since the number might be very large, 
+please output the answer modulo 109 + 7 (1000000007).
+
 ## Input
-The first line of the input gives the number of test cases, T. T test cases follow. Each test case begins with a 
-single line containing the two integers N and B. The second line contains N integers. The i-th integer is Ai, 
-the cost of the i-th house.
+The first line of the input gives the number of test cases, T. T lines follow. 
+Each line has two integers R and C: the number of dots in each row and column of the grid, respectively.
+
 ## Output
-For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and 
-y is the maximum number of houses you can buy.
+For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the number of different 
+squares can be found in the grid.
+
 ## Limits
-Time limit: 15 seconds per test set.
-Memory limit: 1GB.
 1 ≤ T ≤ 100.
-1 ≤ B ≤ 105.
-1 ≤ Ai ≤ 1000, for all i.
-##Test set 1
-1 ≤ N ≤ 100.
-##Test set 2
-1 ≤ N ≤ 105.
+Time limit: 20 seconds per test set.
+Memory limit: 1GB.
+
+Small dataset (Test set 1 - Visible)
+2 ≤ R ≤ 1000.
+2 ≤ C ≤ 1000.
+
+Large dataset (Test set 2 - Hidden)
+2 ≤ R ≤ 109.
+2 ≤ C ≤ 109.
+
 ## Examples
 Input
-3
-4 100
-20 90 40 90
-4 50
-30 30 10 10
-3 300
-999 999 999
+4
+2 4
+3 4
+4 4
+1000 500
+
 Output
-Case #1: 2
-Case #2: 3
-Case #3: 0
+Case #1: 3
+Case #2: 10
+Case #3: 20
+Case #4: 624937395
  
 In Sample Case #1, you have a budget of 100 dollars. You can buy the 1st and 3rd houses for 20 + 40 = 60 dollars.
 In Sample Case #2, you have a budget of 50 dollars. You can buy the 1st, 3rd and 4th houses for 30 + 10 + 10 = 50 dollars.
