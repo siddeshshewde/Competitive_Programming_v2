@@ -2,6 +2,7 @@
 Exercise : 1
 User     : Serge I
 Date     : 2002-09-30
+Link     : https://sql-ex.ru/learn_exercises.php?LN=1
 
 Problem
 Find the model number, speed and hard drive capacity for all the PCs with prices below $500.
