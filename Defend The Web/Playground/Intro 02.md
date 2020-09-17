@@ -1,6 +1,8 @@
 #### Intro 2
 
-Challenge : https://defendtheweb.net/playground/intro2
+Challenge    : https://defendtheweb.net/playground/intro2
+Difficulty   : Bronze
+Success Rate : 90%
 
 Check the source code of the page (ctrl+u) and there you will find the username and password present in the form with rgb value set to transparent:
 

@@ -1,6 +1,8 @@
 #### Intro 4
 
-Challenge : https://defendtheweb.net/playground/intro4
+Challenge    : https://defendtheweb.net/playground/intro4
+Difficulty   : Bronze
+Success Rate : 87%
 
 Check the source code of the page (ctrl+u) and there you will find a hidden input-type:
 
