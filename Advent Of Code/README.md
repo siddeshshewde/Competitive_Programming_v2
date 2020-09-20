@@ -24,6 +24,29 @@ Advent of Code is a registered trademark in the United States.
 ## General Tips
 If you get stuck, try your solution against the examples given in the puzzle; you should get the same answers. If not, re-read the description. Did you misunderstand something? Is your program doing something you don't expect? After the examples work, if your answer still isn't correct, build some test cases for which you can verify the answer by hand and see if those work with your program. Make sure you have the entire puzzle input. If you're still stuck, maybe ask a friend for help, or come back to the puzzle later. You can also ask for hints in the <a href="https://www.reddit.com/r/adventofcode">subreddit.</a>
 
+## Repository Structure
+There's a folder for each problem nested in its own year
+
+```ascii
+├── Year
+|   ├── Day/
+│   |   ├── problem.py
+│   |   ├── problem.in
+│   |   └── ...
+│   |...
+|
+├── 2019
+|   ├── Day 01/
+│   |   ├── Addition.py
+│   |   ├── addition.in
+│   |   └── ...
+│   |...
+|
+```
+
+## Profile
+siddesh shewde (google login)
+
 ## Frequently Asked Questions
 <b><i>Why was this puzzle so easy / hard?</i></b>
 <br>
@@ -44,6 +67,3 @@ There is a high contrast alternate stylesheet. Firefox supports these by default
 <b><i>I have a puzzle idea! Can I send it to you?</i></b>
 <br> 
 Please don't. Because of legal issues like copyright and attribution, I don't accept puzzle ideas, and I won't even read your email if it looks like one just in case I use parts of it by accident.
-
-
-username: siddesh shewde (google login)
