@@ -1,11 +1,12 @@
 <h1 align="center">Advent Of Code</h1>
 
-<a href="https://adventofcode.com/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fa01918eb2352731d7e7572c818ac03409885d30c%2F68747470733a2f2f692e696d6775722e636f6d2f796f4e6e3444312e6a7067&imgrefurl=https%3A%2F%2Fgithub.com%2FHais%2Fadvent-of-code&tbnid=r96bJhcX16n1RM&vet=12ahUKEwitrJXsyPbrAhVhEbcAHbSeDXgQMygJegUIARCjAQ..i&docid=tl5aIqyNCTZIxM&w=920&h=360&q=adventofcode&ved=2ahUKEwitrJXsyPbrAhVhEbcAHbSeDXgQMygJegUIARCjAQ"></a>
+<a href="https://adventofcode.com/"><img src="https://camo.githubusercontent.com/a01918eb2352731d7e7572c818ac03409885d30c/68747470733a2f2f692e696d6775722e636f6d2f796f4e6e3444312e6a7067"></a>
 
 <h6 align="center">
   Solutions for <a href="https://adventofcode.com/">Advent Of Code</a>
 </h6>
 
+<hr>
 <b><i>
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
 </i></b>
