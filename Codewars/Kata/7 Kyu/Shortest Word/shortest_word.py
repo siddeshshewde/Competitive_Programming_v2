@@ -11,3 +11,8 @@ def find_short(s):
         if len(i) < l:
             l = len(i)
     return l
+
+
+# Best Answer
+def find_short(s):
+    return min(len(x) for x in s.split())
