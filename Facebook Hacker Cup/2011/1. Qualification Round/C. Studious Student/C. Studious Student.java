@@ -65,7 +65,7 @@ import java.util.Scanner;
  *
  * @author siddesh.sh
  */
-public class Studious_student 
+public class Studious_Student 
 {
     /**
      * @param args the command line arguments
