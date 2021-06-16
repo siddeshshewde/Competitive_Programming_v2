@@ -1,5 +1,5 @@
 /*
-Problem     : Quarter of the year
+Problem     : Welcome to Java!
 Difficulty  : Easy
 Max Score   : 3
 URL         : https://www.hackerrank.com/challenges/welcome-to-java/problem
