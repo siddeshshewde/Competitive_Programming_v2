@@ -1,3 +1,10 @@
+/*
+Problem     : Java If-Else
+Difficulty  : Easy
+Max Score   : 10
+URL         : https://www.hackerrank.com/challenges/java-if-else/problem
+*/
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
