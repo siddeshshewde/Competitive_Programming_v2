@@ -1,3 +1,5 @@
+#https://projecteuler.net/problem=1
+
 def main (n):
     sum = 0
     for i in range (1, n):
