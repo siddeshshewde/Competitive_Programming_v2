@@ -1,3 +1,4 @@
+#https://projecteuler.net/problem=4
 def main():
     max = 0
     while i in range(999, 1):
