@@ -1,7 +1,9 @@
 #### Intro 1
 
 Challenge    : https://defendtheweb.net/playground/intro1
+
 Difficulty   : Bronze
+
 Success Rate : 81%
 
 Check the source code of the page (ctrl+u) and there you will find a comment having a username and password:
