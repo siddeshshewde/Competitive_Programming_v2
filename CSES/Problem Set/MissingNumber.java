@@ -1,6 +1,7 @@
 /*
 Title        : Missing Number
 Problem      : https://cses.fi/problemset/task/1083
+Category     : Introductory Problems
 Time limit   : 1.00 s 
 Memory limit : 512 MB
 */
