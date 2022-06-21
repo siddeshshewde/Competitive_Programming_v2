@@ -1,0 +1,19 @@
+/*
+Problem     : Classes More Than 5 Students
+Difficulty  : Easy
+URL         : https://leetcode.com/problems/classes-more-than-5-students/
+*/
+
+SELECT class
+FROM
+(
+    SELECT class, count(student) as count
+    FROM courses 
+    GROUP BY class
+    HAVING count >= 5
+) a
+
+/*
+Runtime: 278 ms, faster than 77.29% of MySQL online submissions for Classes More Than 5 Students.
+Memory Usage: 0B, less than 100.00% of MySQL online submissions for Classes More Than 5 Students.
+*/
