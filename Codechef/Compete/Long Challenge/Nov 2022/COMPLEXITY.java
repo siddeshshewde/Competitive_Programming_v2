@@ -1,6 +1,6 @@
 /*
 Problem: COMPLEXITY
-Contest: November Long
+Contest: NOV221
 Link: https://www.codechef.com/problems/COMPLEXITY
 */
 
