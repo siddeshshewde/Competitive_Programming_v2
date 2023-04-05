@@ -1,3 +1,11 @@
+/*
+# Problem      : Sample Problem
+# Year         : 2022
+# Round        : Coding Practice
+# Points       : 1pt
+# Description  : https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f49d7/0000000000bcee64
+*/
+
 import java.util.Scanner;
 
 public class Solution
