@@ -1,3 +1,11 @@
+/*
+# Problem      : Record Breaker
+# Year         : 2022
+# Round        : Coding Practice
+# Points       : 5pts, 7pts
+# Description  : https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f49d7/0000000000bcf2ed
+*/
+
 import java.io.InputStreamReader;
 import java.io.BufferedReader;
 import java.util.StringTokenizer;
