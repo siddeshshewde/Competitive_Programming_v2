@@ -1,3 +1,9 @@
+/*
+Problem  : Length of Last Word
+Link     : https://leetcode.com/problems/length-of-last-word/
+*/
+
+
 class Solution {
     public int lengthOfLastWord(String s) {
         int flag = 0, count = 0;
@@ -24,3 +30,9 @@ class Solution {
         return count;
     }
 }
+/*
+Runtime: 0 ms
+Beats: 100%
+Memory: 40.7 MB
+Beats: 64.49%
+*/
