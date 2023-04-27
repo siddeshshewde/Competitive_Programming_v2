@@ -16,3 +16,10 @@ class Solution {
         return new String(a);
     }
 }
+
+/*
+Runtime: 1 ms
+Beats: 100%
+Memory: 42.9 MB
+Beats: 33.6%
+*/
