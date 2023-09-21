@@ -1,7 +1,7 @@
 /*
 Problem     : Java Currency Formatter
 Difficulty  : Easy
-Max Score   : 10
+Max Score   : 15
 URL         : https://www.hackerrank.com/challenges/java-currency-formatter/problem
 */
 
